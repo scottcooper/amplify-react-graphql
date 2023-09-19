@@ -1,0 +1,14 @@
+{
+  "resourceName": "photobucket",
+  "policyUUID": "b2316e44",
+  "bucketName": "amplifyreactgraphqlda1f69f334cf45019e1eab1c67b7",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
